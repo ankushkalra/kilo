@@ -1,3 +1,5 @@
+// test comment
+
 /*** include ***/
 #define _DEFAULT_SOURCE
 #define _BSD_SOURCE
